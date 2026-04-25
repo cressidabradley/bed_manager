@@ -8,7 +8,7 @@ st.title("Hospital Bed Capacity Dashboard")
 # Create dummy data for 3 hospital wards
 data = {
     'Ward': ['ICU', 'General', 'Maternity'],
-    'Total_Beds': [20, 50, 30],
+    'Total_Beds': [20, 55, 30],
     'Occupied_Beds': [18, 35, 15]
 }
 
